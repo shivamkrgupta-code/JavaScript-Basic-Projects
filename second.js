@@ -1,3 +1,7 @@
+// this is the second project of BMI Calculator
+
+
+
 // first step to select (form) button bcz it has submit button
 
 const form = document.querySelector('form')
