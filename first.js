@@ -1,3 +1,5 @@
+// this is the first project of COLOR Scheme Background
+
 const buttons = document.querySelectorAll('.button')
 const body = document.querySelector('body')
 
